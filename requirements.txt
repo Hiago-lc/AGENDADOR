@@ -55,7 +55,6 @@ matplotlib-inline==0.1.6
 mccabe==0.7.0
 mysql-connector-python==8.0.31
 nest-asyncio==1.5.5
-numpy==1.23.3
 oauthlib==3.2.1
 package-name==0.1
 packaging==21.3
